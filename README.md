@@ -1,4 +1,5 @@
 # Analysis-on-crowd_count_model
+
  1. Crowd Size Classification
 Purpose: Categorize image as having a Small, Medium, or Large crowd.
 Method: Sum of all density values compared against thresholds.
