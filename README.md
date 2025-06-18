@@ -15,7 +15,10 @@ Method: Divide image into a 4x4 grid and calculate total density per patch.
  6. Adaptive Risk Zone Detection
 Purpose: Dynamically identify high-risk zones without fixed thresholds.
 Method: Calculate risk as density > mean + 1.5 * std. Overlay mask in red.
-![Alt Text](https://github.com/Anugya-algo/Analysis-on-crowd_count_model/blob/main/Adaptive%20risk%20zone.png)
+<p align="center">
+  <img src="https://github.com/Anugya-algo/Analysis-on-crowd_count_model/blob/main/Adaptive%20risk%20zone.png" width="400"/>
+</p>
+![Alt Text]()
  8. DBSCAN-Based Hotspot Clustering
 Purpose: Automatically discover density hotspots using unsupervised learning.
 Method: DBSCAN clusters points where density exceeds a set threshold.
