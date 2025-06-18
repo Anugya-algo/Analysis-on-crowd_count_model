@@ -34,6 +34,6 @@ Purpose: Understand spatial distribution patterns of the crowd.
 Method: Sum densities along:
 Vertical axis → Vertical Profile  ; Horizontal axis → Horizontal Profile
 <p align="center">
-  <img src="https://github.com/Anugya-algo/Analysis-on-crowd_count_model/blob/main/Hori-verti%20div.png" width="600"/>
+  <img src="https://github.com/Anugya-algo/Analysis-on-crowd_count_model/blob/main/Hori-verti%20div.png" width="1000"/>
 </p>
 
