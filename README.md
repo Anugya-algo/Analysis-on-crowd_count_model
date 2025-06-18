@@ -25,7 +25,6 @@ Method: Calculate risk as density > mean + 1.5 * std. Overlay mask in red.
 <p align="center">
   <img src="https://github.com/Anugya-algo/Analysis-on-crowd_count_model/blob/main/Adaptive%20risk%20zone.png" width="400"/>
 </p>
-![Alt Text]()
  6. DBSCAN-Based Hotspot Clustering
 Purpose: Automatically discover density hotspots using unsupervised learning.
 Method: DBSCAN clusters points where density exceeds a set threshold.
